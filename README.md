@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Shreya's introo.png" alt="Shreya Chandra Banner" />
+  <img src="./shreya's introo.png" alt="Shreya Chandra Banner" />
 </p>
 
 
