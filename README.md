@@ -1,9 +1,7 @@
 <p align="center">
   <img src="./Shreya's intro.png" alt="Shreya Chandra Banner" />
 </p>
-<p align="center">
-  <img src="./banner.png" alt="Banner" />
-</p>
+
 
 <h1 align="center">
   Hi 👋, I'm Shreya Chandra
