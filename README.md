@@ -1,11 +1,21 @@
 <p align="center">
   <img src="./Shreya's intro.png" alt="Shreya Chandra Banner" />
 </p>
-## Hi there 👋 I'm Shreya Chandra
+<p align="center">
+  <img src="./banner.png" alt="Banner" />
+</p>
 
-Frontend Developer | React.js | Next.js |
+<h1 align="center">
+  Hi 👋, I'm Shreya Chandra
+</h1>
 
-Turning ideas into intuitive user experiences.
+<h3 align="center">
+  Frontend Developer • React.js • Next.js • TypeScript
+</h3>
+
+<p align="center">
+  Turning ideas into intuitive user experiences.
+</p>
 
 ## 👩‍💻 About Me
 
